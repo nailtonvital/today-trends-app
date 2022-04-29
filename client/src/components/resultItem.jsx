@@ -7,4 +7,4 @@ const ResultItem = (props) => {
     
 }
 
-export default resultItem
+export default ResultItem
