@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Today Trends App</h1>
-<p align="center">A app that allows the top queries of the day</p>
+<p align="center">A app that allows view the top queries of the day</p>
 
 # Preview
 ![PagePreview](https://github.com/nailtonvital/today-trends-app/blob/master/preview.gif)
